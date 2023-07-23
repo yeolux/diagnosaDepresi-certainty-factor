@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/secondary"
+    android:gravity="center"
+    tools:context=".SignUp">
+
+
+    <ImageView
+        android:layout_width="315dp"
+        android:layout_height="219dp"
+        android:src="@drawable/signup"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/image"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:fontFamily="@font/poppinssemibold"
+        android:textColor="@color/primary"
+        android:id="@+id/textsignin"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/textsignin"
+        android:padding="30dp">
+
+        <EditText
+            android:id="@+id/email_signup"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:hint="email"
+            android:padding="15dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textSize="18sp"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:fontFamily="@font/poppinssemibold"
+            android:background="@drawable/round_white"
+            android:drawablePadding="15dp"
+            android:textColor="@color/primary" />
+        <EditText
+            android:id="@+id/password_signup"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:hint="password"
+            android:padding="15dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textSize="18sp"
+            android:drawableLeft="@drawable/ic_baseline_password_24"
+            android:fontFamily="@font/poppinssemibold"
+            android:background="@drawable/round_white"
+            android:drawablePadding="15dp"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/primary" />
+        <Button
+            android:id="@+id/buttonsignup"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="Sign Up"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/poppinsbold"
+            android:textSize="18sp"
+            android:background="@drawable/round_nofill"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/loginredirect"
+            android:text="Already an user? Sign In"
+            android:layout_gravity="center"
+            android:padding="8dp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/poppinsregular"
+            android:textColor="@color/primary"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

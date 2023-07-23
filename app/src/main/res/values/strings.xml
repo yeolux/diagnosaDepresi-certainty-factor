@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">DISI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="textdesk">
+        Tujuan dari form aplikasi adalah untuk memberikan gambaran awal tentang
+        kemungkinan adanya gejala-gejala depresi yang dialami oleh seseorang.
+        Aplikasi ini dirancang untuk membantu pengguna menyadari dan mengidentifikasi
+        gejala-gejala depresi yang mungkin mereka alami.
+        \n\n
+        Penting untuk mengisi form pada aplikasi ini dengan jujur karena hal tersebut akan
+        mempengaruhi akurasi hasil evaluasi. Dengan mengisi dengan jujur, pengguna dapat
+        memberikan gambaran yang lebih akurat tentang pengalaman mereka sehari-hari dan perasaan
+        mereka yang mungkin berkaitan dengan depresi. Hal ini penting karena evaluasi yang akurat
+        dapat membantu dalam pengambilan keputusan dan langkah-langkah selanjutnya dalam perawatan
+        dan bantuan kesehatan.
+        \n\n
+        Namun, penting untuk dicatat bahwa hasil dari aplikasi ini tidak dapat menggantikan diagnosa
+        profesional. Aplikasi ini hanya memberikan petunjuk awal atau indikasi bahwa seseorang mungkin
+        mengalami gejala-gejala depresi. Penting bagi pengguna untuk mencari bantuan profesional dari
+        tenaga medis yang kompeten seperti psikolog atau psikiater untuk diagnosis yang akurat dan
+        rekomendasi perawatan yang tepat.
+        \n\n
+        Dalam kasus diagnosa depresi, konsultasi dengan profesional kesehatan mental sangat penting 
+        karena mereka memiliki pengetahuan dan keterampilan yang diperlukan untuk melakukan evaluasi 
+        mendalam dan memberikan intervensi yang tepat.
+        \n\n
+        \n\n
+    </string>
+
+    <string name="ringan">
+        Berikut adalah beberapa solusi yang dapat Anda coba lakukan sendiri di rumah untuk mengatasi
+        depresi ringan sebagai mahasiswa akhir :
+        \n\n
+        1. Rutin berolahraga : \nLakukan aktivitas fisik ringan secara teratur, seperti berjalan kaki, berlari, atau melakukan latihan di rumah.
+        Olahraga dapat membantu meningkatkan produksi endorfin yang dapat meningkatkan suasana hati dan mengurangi gejala depresi.
+        \n\n
+        2. Tetap menjaga pola tidur yang teratur : \nUsahakan tidur yang cukup dan konsisten setiap malam. Jaga jadwal tidur yang konsisten, hindari begadang, dan buat lingkungan tidur yang nyaman di rumah Anda.
+        \n\n
+        3. Makan makanan sehat : \nPerhatikan pola makan Anda dan pastikan Anda mengonsumsi makanan yang seimbang dan bergizi. Hindari mengandalkan makanan cepat saji atau makanan yang tinggi gula dan lemak jenuh, karena dapat mempengaruhi suasana hati dan energi Anda secara negatif.
+        \n\n
+        4. Kurangi konsumsi alkohol dan kafein : \nMinuman beralkohol dan minuman berkafein seperti kopi atau minuman energi dapat mempengaruhi suasana hati dan tidur Anda. Batasi konsumsinya dan perhatikan bagaimana tubuh Anda bereaksi terhadap mereka.
+        \n\n
+        5. Cari waktu untuk relaksasi dan perawatan diri : \nTemukan kegiatan yang membantu Anda bersantai dan mengurangi stres, seperti meditasi, pernapasan dalam, mandi hangat, atau membaca buku yang Anda sukai. Manfaatkan waktu untuk merawat diri sendiri dan melakukan hal-hal yang memberikan kepuasan pribadi.
+        \n\n
+        6. Hindari isolasi sosial : \nMeskipun Anda mungkin merasa cenderung untuk mengisolasi diri, upayakan untuk tetap terhubung dengan orang lain. Pertahankan komunikasi dengan keluarga dan teman-teman terdekat melalui telepon, pesan teks, atau video call. Bergabung dengan klub atau kelompok di kampus yang sesuai minat Anda juga dapat membantu Anda bertemu dengan orang-orang baru.
+        \n\n
+        7. Kelola stres dengan baik : \nTemukan metode pengelolaan stres yang bekerja untuk Anda, seperti melakukan yoga, meditasi, menulis jurnal, atau mendengarkan musik yang menenangkan. Cobalah untuk mengidentifikasi pemicu stres dan cari cara untuk mengatasinya.
+        \n\n
+        8. Batasi waktu di media sosial : \nTerlalu banyak paparan terhadap media sosial dapat memengaruhi suasana hati dan memicu perbandingan sosial yang merugikan. Batasi waktu yang dihabiskan di media sosial dan berfokus pada aktivitas yang memberikan kepuasan dan makna dalam kehidupan Anda.
+        \n\n
+        9. Menetapkan tujuan kecil dan merayakannya : \nTetapkan tujuan kecil yang dapat Anda capai dalam kehidupan sehari-hari dan rayakan setiap kali Anda mencapainya. Ini dapat membantu Anda merasa pencapaian dan memberikan motivasi tambahan.
+        \n\n
+        \n\n
+    </string>
+
+    <string name="sedang">
+        Berikut adalah beberapa solusi yang dapat Anda coba lakukan sendiri di rumah untuk mengatasi depresi sedang sebagai mahasiswa akhir :
+        \n\n
+        1. Terapkan rutinitas harian : \nTetapkan jadwal harian yang terstruktur dan disiplin. Ini dapat membantu memberikan rasa stabilitas dan mengurangi perasaan kacau atau tidak teratur. Termasuk dalam rutinitas harian adalah tidur dan bangun tidur yang teratur, makan dengan teratur, dan melibatkan diri dalam kegiatan yang bermanfaat.
+        \n\n
+        2. Jaga kesehatan fisik : \nPastikan Anda menjaga kesehatan fisik dengan tidur yang cukup, makan makanan sehat, dan tetap aktif secara fisik. Olahraga ringan seperti berjalan kaki, yoga, atau bersepeda dapat membantu meningkatkan suasana hati dengan melepaskan endorfin.
+        \n\n
+        3. Latih relaksasi dan teknik pernapasan : \nPelajari teknik pernapasan yang dalam dan relaksasi seperti meditasi, visualisasi, atau yoga. Praktik ini dapat membantu mengurangi stres, meningkatkan konsentrasi, dan mengatasi gejala depresi.
+        \n\n
+        4. Tetap terhubung secara sosial : \nMeskipun Anda mungkin merasa cenderung untuk mengisolasi diri, penting untuk tetap terhubung dengan orang lain. Gunakan teknologi untuk berkomunikasi dengan keluarga, teman-teman, atau teman sekelas melalui panggilan video atau pesan teks. Juga, cari peluang untuk berpartisipasi dalam kegiatan sosial di kampus atau komunitas online yang menarik minat Anda.
+        \n\n
+        5. Hindari pemakaian stimulan : \nHindari pemakaian stimulan seperti alkohol, narkoba, atau obat-obatan terlarang. Meskipun mereka mungkin tampak sebagai jalan keluar sementara, penggunaan jangka panjang dapat memperburuk keadaan depresi dan menyebabkan masalah kesehatan mental yang lebih serius.
+        \n\n
+        6. Ciptakan lingkungan yang mendukung : \nBuat lingkungan di sekitar Anda yang mendukung keberhasilan dan kesejahteraan. Bersihkan dan atur ruangan Anda agar nyaman dan rapi. Pertimbangkan untuk menambahkan tanaman hijau atau dekorasi yang menyenangkan untuk meningkatkan suasana hati.
+        \n\n
+        7. Menjaga kegiatan yang bermanfaat : \nCari kegiatan yang memberikan arti dan kepuasan bagi Anda. Ini bisa berupa membaca buku, menulis, bermain musik, melukis, atau mengikuti hobi yang Anda sukai. Melibatkan diri dalam aktivitas positif dapat membantu mengalihkan perhatian dari perasaan depresi.
+        \n\n
+        8. Manfaatkan sumber daya online : \nInternet menyediakan banyak sumber daya dan dukungan dalam mengatasi depresi. Anda dapat mencari grup dukungan online, membaca artikel atau buku yang menginspirasi, atau mengikuti program terapi mandiri yang disediakan secara online.
+        \n\n
+        9. Menjaga ekspektasi realistis : \nJangan terlalu keras pada diri sendiri dan menjaga ekspektasi yang realistis. Prioritaskan tugas-tugas Anda dan belajarlah untuk membagi waktu dan mengatur harapan dengan bijak.
+        \n\n
+        Jika depresi sedang terus berlanjut atau memburuk, sangat penting untuk mencari bantuan profesional. Seorang psikolog atau psikiater dapat memberikan dukungan yang lebih khusus dan membantu Anda mengatasi tantangan yang Anda hadapi.
+        \n\n
+        \n\n
+    </string>
+    <string name="berat">
+        Depresi berat adalah kondisi yang serius dan membutuhkan perhatian medis segera. Berikut adalah beberapa solusi yang dapat membantu mengatasi depresi berat sebagai mahasiswa tingkat akhir :
+        \n\n
+        1. Konsultasi dengan profesional kesehatan mental : \nSegera temui psikiater atau psikolog yang berpengalaman dalam perawatan depresi berat. Mereka akan dapat mengevaluasi keadaan Anda secara menyeluruh dan meresepkan perawatan yang tepat, termasuk terapi dan obat-obatan yang diperlukan.
+        \n\n
+        2. Terapi individu intensif : \nTerapi psikoterapi seperti Terapi Kognitif Perilaku (CBT) atau Terapi Psikodinamik dapat membantu Anda mengatasi depresi berat. Terapis akan bekerja dengan Anda secara teratur untuk membangun pemahaman tentang penyebab depresi, mengidentifikasi pola pikir yang tidak sehat, dan mengembangkan strategi coping yang efektif.
+        \n\n
+        3. Perawatan rumah sakit : \nDalam beberapa kasus, ketika depresi berat mengancam keselamatan atau menghambat fungsi sehari-hari, rawat inap di rumah sakit jiwa mungkin diperlukan. Di sana, Anda akan mendapatkan perawatan intensif dan pengawasan oleh tim medis yang terlatih.
+        \n\n
+        4. Dukungan sosial : \nDapatkan dukungan dari keluarga, teman-teman, dan kelompok dukungan. Berbicara tentang pengalaman Anda dengan orang-orang terdekat dapat membantu mengurangi rasa kesepian dan memberikan dukungan emosional.
+        \n\n
+        5. Obat-obatan : \nPsikiater dapat meresepkan obat antidepresan atau obat lain yang diperlukan untuk mengelola gejala depresi berat. Penting untuk mengikuti instruksi dokter dengan ketat dan memberi tahu mereka tentang efek samping yang mungkin Anda alami.
+        \n\n
+        6. Perawatan diri yang intensif : \nSaat mengalami depresi berat, sangat penting untuk merawat diri sendiri secara fisik. Pastikan Anda tidur cukup, makan makanan bergizi, dan menjaga kebersihan diri. Terapkan rutinitas yang teratur dan jangan ragu untuk meminta bantuan untuk menjalankan aktivitas sehari-hari.
+        \n\n
+        7. Jangan menunda pencarian bantuan : \nJika Anda merasa depresi berat menghambat kemampuan Anda untuk berfungsi sehari-hari atau jika Anda mengalami pikiran untuk menyakiti diri sendiri, segera mencari bantuan medis darurat atau hubungi hotline krisis kesehatan mental di negara Anda.
+        \n\n
+        Ingatlah bahwa depresi berat adalah kondisi yang membutuhkan perawatan yang tepat dan mendalam. Segera cari bantuan profesional dan jangan ragu untuk mengajukan pertanyaan atau mengungkapkan kebutuhan Anda kepada tim perawatan kesehatan mental.
+        \n\n
+        \n\n
+    </string>
+    <string name="panduan">
+         Panduan melakukan diagnosa : \n
+        1. mengisi biodata \n
+        2. checklist gejala yang tersedia \n
+        3. memberikan nilai keyakinan \n
+        4. Klik button diagnosa
+    </string>
+</resources>
